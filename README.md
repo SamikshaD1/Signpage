@@ -1,5 +1,7 @@
 # React + Vite
 
+Use This - Username - hbingley1 , password - CQutx25i8r Username - rshawe2 , password - OWsTbMUgFc
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
